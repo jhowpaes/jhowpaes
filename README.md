@@ -9,7 +9,7 @@ I am Jhow Paes, an enthusiast of new technologies and in constant evolution, I a
 
 - 🔭 I'm currently working on hybrid apps
 - 🌱 I'm currently studying Swift
--  ⚡ Main technologies: React.js, React Native, Node.js, Javascript, Typescript, git, docker, postgreSql, mysql...
+-  ⚡ Main technologies: React.js, React Native, Node.js, redux, Javascript, Typescript, git, docker, postgreSql, mysql...
 
 ![Docker Badge](https://badgen.net/badge/icon/docker?icon=docker&label)
 ![TypeScript Badge](https://badgen.net/badge/icon/typescript?icon=typescript&label)
