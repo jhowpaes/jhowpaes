@@ -11,18 +11,6 @@ I am Jhow Paes, an enthusiast of new technologies and in constant evolution, I a
 - 🌱 I'm currently studying Swift
 -  ⚡ Main technologies: React.js, React Native, Node.js, redux, Javascript, Typescript, git, docker, postgreSql, mysql...
 
-![Docker Badge](https://badgen.net/badge/icon/docker?icon=docker&label)
-![TypeScript Badge](https://badgen.net/badge/icon/typescript?icon=typescript&label)
-![VSCode Badge](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)
-![git Badge](https://badgen.net/badge/icon/git?icon=git&label)
-![postgresql Badge](https://badgen.net/badge/icon/postgresql?icon=postgresql&label)
-![js Badge](https://img.shields.io/badge/language-javascript%2073%25-blue.svg)
-![Swift Badge](https://img.shields.io/badge/language-swift%2010%25-blue.svg)
-![Php Badge](https://img.shields.io/badge/language-php%2080%25-blue.svg)
-![Reactjs Badge](https://img.shields.io/badge/*-react.js%2065%25-blue.svg)
-![React Native Badge](https://img.shields.io/badge/*-reactnative%2068%25-blue.svg)
-![Nodejs Badge](https://img.shields.io/badge/*-node.js%2056%25-blue.svg)
-
 
 
 ---
